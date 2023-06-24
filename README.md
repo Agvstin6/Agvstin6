@@ -9,7 +9,7 @@ Database: PostgreSQL | Sqlite3 | Sequelize
 
 📌 My projects:
 
-Herny's Bootcamp Videogame Individual Project (Soon to be deployed)
+Herny's Bootcamp Pokemon Individual Project
 
 ![Captura de pantalla 2023-04-10 232259](https://user-images.githubusercontent.com/113531876/231039097-656a1d0a-81bc-4e29-b45c-295397fd23e7.png)
 
